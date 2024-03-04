@@ -1,0 +1,13 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+
+/**
+ * Specifies the requirement for the project.
+ * The "-e ." flag indicates that the current directory should be included in the Python path.
+ */
+-e .
+-e .
